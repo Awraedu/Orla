@@ -1,7 +1,4 @@
 [
-  { "id": "p1", "title": "Deep Reasoning Assistant", "author": "@claire_ai", "stars": "14.2k", "desc": "Expert level reasoning for complex problems.", "topic": "Chat" },
-  { "id": "p2", "title": "Hyper-real Product Shoot", "author": "@shot_master", "stars": "24.8k", "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=400&auto=format&fit=crop", "topic": "Image", "height": 260 }
- 
   {
     "id": "p3",
     "title": "Strategic Planner Pro",
