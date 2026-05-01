@@ -1,68 +1,21 @@
 [
-  {
-    "id": "p3",
-    "title": "Strategic Planner Pro",
-    "author": "@insight_architect",
-    "stars": "18.7k",
-    "desc": "Devises intricate multi-step strategies for ambiguous goals.",
-    "topic": "Reasoning"
+  { 
+    "id": "p1", 
+    "title": "Deep Reasoning Assistant", 
+    "aiName": "GPT-4", 
+    "logoKey": "openai", 
+    "stars": "14.2k", 
+    "desc": "Expert level reasoning for complex problems.", 
+    "topic": "Chat" 
   },
-  {
-    "id": "p4",
-    "title": "Photo Realism Crafter",
-    "author": "@vizgenius",
-    "stars": "27.1k",
-    "desc": "Produces ultra-high fidelity, realistic images from detailed descriptions.",
-    "topic": "Image"
-  },
-  {
-    "id": "p5",
-    "title": "Literary Maestro",
-    "author": "@storysmith",
-    "stars": "20.4k",
-    "desc": "Creates profound, emotionally charged stories in any literary style.",
-    "topic": "Writing"
-  },
-  {
-    "id": "p6",
-    "title": "Code Architect Pro",
-    "author": "@dev_elite",
-    "stars": "33.2k",
-    "desc": "Designs robust software systems with scalable, modular code and best practices.",
-    "topic": "Coding"
-  },
-  {
-    "id": "p7",
-    "title": "Data Insight Seeker",
-    "author": "@data_guru",
-    "stars": "15.9k",
-    "desc": "Excels at extracting actionable insights from complex datasets.",
-    "topic": "Data"
-  },
-  {
-    "id": "p8",
-    "title": "Persona Mimic",
-    "author": "@roleplayer",
-    "stars": "12.6k",
-    "desc": "Maintains consistent and deep character personas in conversations.",
-    "topic": "Chat"
-  },
-  {
-    "id": "p9",
-    "title": "Scientific Research Assistant",
-    "author": "@researcher_ai",
-    "stars": "17.3k",
-    "desc": "Assists with hypothesis generation, experiment planning, and literature review.",
-    "topic": "Science"
-  },
-  {
-    "id": "p10",
-    "title": "Adaptive Tutor",
-    "author": "@ed_ai",
-    "stars": "14.5k",
-    "desc": "Provides personalized step-by-step instruction in any academic subject.",
-    "topic": "Education"
+  { 
+    "id": "p2", 
+    "title": "Hyper-real Product Shoot", 
+    "aiName": "Midjourney", 
+    "logoKey": "midjourney", 
+    "stars": "24.8k", 
+    "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=400&auto=format&fit=crop", 
+    "topic": "Image", 
+    "height": 260 
   }
-
-
 ]
