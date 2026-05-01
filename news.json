@@ -1,3 +1,42 @@
 [
-  { "id": "n1", "aiId": "gpt4", "brand": "OpenAI", "news": "GPT-4o is now free for all users worldwide.", "views": "2.4M", "logoKey": "openai" }
+  {
+    "id": "n1",
+    "aiId": "gpt4",
+    "brand": "OpenAI",
+    "news": "GPT-4o is now free for all users worldwide.",
+    "views": "2.4M",
+    "logoKey": "openai"
+  },
+  {
+    "id": "n2",
+    "aiId": "gemini",
+    "brand": "Google",
+    "news": "Gemini 1.5 Pro API is available to all Google Cloud users.",
+    "views": "1.8M",
+    "logoKey": "google"
+  },
+  {
+    "id": "n3",
+    "aiId": "llama3",
+    "brand": "Meta",
+    "news": "Meta releases Llama 3 models for research and commercial use.",
+    "views": "1.2M",
+    "logoKey": "meta"
+  },
+  {
+    "id": "n4",
+    "aiId": "claude3",
+    "brand": "Anthropic",
+    "news": "Anthropic launches Claude 3 with improved natural language understanding.",
+    "views": "950K",
+    "logoKey": "anthropic"
+  },
+  {
+    "id": "n5",
+    "aiId": "copilot",
+    "brand": "Microsoft",
+    "news": "Microsoft Copilot integrates DALL·E 3 image generation for all users.",
+    "views": "1.4M",
+    "logoKey": "microsoft"
+  }
 ]
